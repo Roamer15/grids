@@ -3,6 +3,10 @@ body {
   height: auto;
 }
 
+.color-pallete {
+  display: grid;
+}
+
 .red {
   background-color: red;
 }
